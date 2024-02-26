@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-02-26 14:04:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-02-24 14:48:47 +0100",
+      "minecraft:savanna": "2024-02-24 14:46:45 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
