@@ -1,5 +1,6 @@
 package com.entekallis.selfmademod;
 
+import com.entekallis.selfmademod.blocks.ModBlocks;
 import com.entekallis.selfmademod.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
@@ -37,7 +38,8 @@ public class SelfMadeMod {
 
         // Register items
         ModItems.register(modEventBus);
-
+        //Register blocks
+        ModBlocks.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);

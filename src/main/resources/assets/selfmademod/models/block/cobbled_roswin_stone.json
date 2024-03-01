@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "selfmademod:block/cobbled_roswin_stone"
+  }
+}

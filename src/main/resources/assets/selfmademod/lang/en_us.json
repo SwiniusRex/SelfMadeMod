@@ -1,3 +1,12 @@
 {
-  "item.selfmademod.roswinium_gem": "Roswinium Gem"
+  "item.selfmademod.roswinium_gem": "Roswinium Gem",
+
+  "block.selfmademod.roswin_stone": "Roswinstone",
+  "block.selfmademod.cobbled_roswin_stone": "Cobbled Roswinstone",
+  "block.selfmademod.cobbled_roswin_stairs": "Cobbled Roswinstone Stairs",
+  "block.selfmademod.cobbled_roswin_slab": "Cobbled Roswinstone Slab",
+  "block.selfmademod.cobbled_roswin_wall": "Cobbled Roswinstone Wall",
+  "block.selfmademod.roswin_bricks": "Roswinstone Bricks",
+
+  "itemGroup.Roswinium": "Roswinium Mod Items"
 }

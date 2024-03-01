@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "top": "selfmademod:block/cobbled_roswin_stone",
+    "side": "selfmademod:block/cobbled_roswin_stone",
+    "bottom": "selfmademod:block/cobbled_roswin_stone"
+  }
+}

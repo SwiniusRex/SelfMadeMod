@@ -1,0 +1,12 @@
+{
+  "item.selfmademod.roswinium_gem": "Gemme de Roswinium",
+
+  "block.selfmademod.roswin_stone": "Swinolithe",
+  "block.selfmademod.cobbled_roswin_stone": "Pierres de Swinolithe",
+  "block.selfmademod.cobbled_roswin_stairs": "Esaclier en Pierres de Swinolithe",
+  "block.selfmademod.cobbled_roswin_slab": "Dalle en Pierres de Swinolithe",
+  "block.selfmademod.cobbled_roswin_wall": "Muret en Pierres de Swinolithe",
+  "block.selfmademod.roswin_bricks": "Swinolithe Taillée",
+
+  "itemGroup.Roswinium": "Items de Roswinium Mod"
+}
