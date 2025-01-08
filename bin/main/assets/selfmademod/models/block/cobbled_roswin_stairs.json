@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "selfmademod:block/cobbled_roswin_stone",
+    "side": "selfmademod:block/cobbled_roswin_stone",
+    "top": "selfmademod:block/cobbled_roswin_stone"
+  }
+}

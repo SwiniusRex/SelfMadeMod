@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "selfmademod:block/cobbled_roswin_stone"
+  }
+}

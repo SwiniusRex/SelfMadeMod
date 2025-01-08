@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "selfmademod:block/roswin_stone"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "selfmademod:block/cobbled_roswin_slab"
+    },
+    "type=double": {
+      "model": "selfmademod:block/cobbled_roswin_stone"
+    },
+    "type=top": {
+      "model": "selfmademod:block/cobbled_roswin_slab_top"
+    }
+  }
+}

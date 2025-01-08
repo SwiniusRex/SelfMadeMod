@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "selfmademod:roswin_stone",
+    "selfmademod:cobbled_roswin_stone",
+    "selfmademod:cobbled_roswin_stairs",
+    "selfmademod:cobbled_roswin_slab",
+    "selfmademod:cobbled_roswin_wall",
+    "selfmademod:roswin_bricks",
+    "selfmademod:roswin_bricks_slab",
+    "selfmademod:roswin_bricks_stairs",
+    "selfmademod:roswin_bricks_wall"
+  ]
+}
