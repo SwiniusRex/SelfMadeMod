@@ -7,6 +7,11 @@
   "block.selfmademod.cobbled_roswin_slab": "Dalle en Pierres de Swinolithe",
   "block.selfmademod.cobbled_roswin_wall": "Muret en Pierres de Swinolithe",
   "block.selfmademod.roswin_bricks": "Swinolithe Taillée",
+  "block.selfmademod.roswin_bricks_slab": "Dalle en Swinolithe Taillée",
+  "block.selfmademod.roswin_bricks_stairs": "Escalier en Swinolithe Taillée",
+  "block.selfmademod.roswin_bricks_wall": "Muret en Swinolithe Taillée",
+
+
 
   "itemGroup.Roswinium": "Items de Roswinium Mod"
 }

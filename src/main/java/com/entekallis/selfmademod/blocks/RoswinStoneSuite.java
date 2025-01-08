@@ -45,10 +45,29 @@ public class RoswinStoneSuite{
             ModCreativeTabs.roswiniumTab
     );
 
-
     public static final RegistryObject<Block> roswinBricks = ModBlocks.registerBlock(
             "roswin_bricks",
             ()-> new Block(ModBlocks.setBlockProps(Material.STONE,2f,1.5f, true)),
             ModCreativeTabs.roswiniumTab
     );
+
+    public static final RegistryObject<Block> roswinBricksSlab = ModBlocks.registerBlock(
+            "roswin_bricks_slab",
+            ()-> new SlabBlock(ModBlocks.setBlockProps(Material.STONE,2f,1.5f, true)),
+            ModCreativeTabs.roswiniumTab
+    );
+
+    public static final RegistryObject<Block> roswinBricksStairs = ModBlocks.registerBlock(
+            "roswin_bricks_stairs",
+            ()-> new StairBlock(()-> RoswinStoneSuite.roswinBricks.get().defaultBlockState(), ModBlocks.setBlockProps(Material.STONE,2f,1.5f, true)),
+            ModCreativeTabs.roswiniumTab
+    );
+
+    public static final RegistryObject<Block> roswinBricksWall = ModBlocks.registerBlock(
+            "roswin_bricks_wall",
+            ()-> new WallBlock(ModBlocks.setBlockProps(Material.STONE,2f,1.5f,true)),
+            ModCreativeTabs.roswiniumTab
+    );
+
+
 }

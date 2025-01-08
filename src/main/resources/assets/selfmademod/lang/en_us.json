@@ -7,6 +7,10 @@
   "block.selfmademod.cobbled_roswin_slab": "Cobbled Roswinstone Slab",
   "block.selfmademod.cobbled_roswin_wall": "Cobbled Roswinstone Wall",
   "block.selfmademod.roswin_bricks": "Roswinstone Bricks",
+  "block.selfmademod.roswin_bricks_slab": "Roswinstone Bricks Slab",
+  "block.selfmademod.roswin_bricks_stairs": "Roswinstone Bricks Stairs",
+  "block.selfmademod.roswin_bricks_wall": "Roswinstone Bricks Wall",
+
 
   "itemGroup.Roswinium": "Roswinium Mod Items"
 }

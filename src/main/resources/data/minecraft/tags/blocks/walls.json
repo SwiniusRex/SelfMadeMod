@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "selfmademod:cobbled_roswin_wall"
+    "selfmademod:cobbled_roswin_wall",
+    "selfmademod:roswin_bricks_wall"
   ]
 }
